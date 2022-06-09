@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bar"
+    app:startDestination="@id/salasEstudio">
+    <activity
+        android:id="@+id/bibliotecas_bibliobuses"
+        android:name="com.example.bibliotekasmadrid.activitys.bibliotecas_bibliobuses"
+        android:label="bibliotecas_bibliobuses" />
+    <activity
+        android:id="@+id/bibliotecasUniversitarias"
+        android:name="com.example.bibliotekasmadrid.activitys.BibliotecasUniversitarias"
+        android:label="BibliotecasUniversitarias" />
+    <activity
+        android:id="@+id/salasEstudio"
+        android:name="com.example.bibliotekasmadrid.activitys.SalasEstudio"
+        android:label="SalasEstudio" />
+    <activity
+        android:id="@+id/Busqueda"
+        android:name="com.example.bibliotekasmadrid.activitys.BusquedaNombre"
+        android:label="Busqueda" />
+    <activity
+        android:id="@+id/BusquedaLoc"
+        android:name="com.example.bibliotekasmadrid.activitys.BusquedaLoc"
+        android:label="Distancia"/>
+</navigation>

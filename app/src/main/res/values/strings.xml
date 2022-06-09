@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiblioteKasMadrid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="citaTxt">“He buscado el sosiego en todas partes, y sólo lo he encontrado sentado en un rincón apartado, con un libro en las manos”</string>
+    <string name="AutorTxt">Thomas De Kempis</string>
+    <string name="Titulo">Estudia bibliotek</string>
+    <string name="Descripcion">Una iniciativa del ayuntamiento de Madrid, realizada por Marcos Zapata</string>
+    <string name="HintSearch">Nombre del lugar</string>
+    <string name="HintSearchLoc">Distancia maxima(En metros)</string>
+</resources>

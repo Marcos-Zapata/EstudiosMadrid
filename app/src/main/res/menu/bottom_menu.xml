@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/salasEstudio"
+        android:title="Salas"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_studying_svgrepo_com" />
+    <item
+        android:id="@+id/bibliotecas_bibliobuses"
+        android:title="Bibliotecas"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_library_svgrepo_com"/>
+    <item
+        android:id="@+id/bibliotecasUniversitarias"
+        android:title="Universidad"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_college_studying_svgrepo_com"/>
+    <item
+        android:id="@+id/Busqueda"
+        android:title="Nombre"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_baseline_search_24"/>
+    <item
+        android:id="@+id/BusquedaLoc"
+        android:title="Distancia"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_baseline_map_24"/>
+
+</menu>
